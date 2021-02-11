@@ -3,6 +3,8 @@
    Language:  Java
    Requires Interface: None
    Class Dependency:  None
+
+   Note: This is made by educational purpose only, I am not responsible for any damage for your files
    
    Program Description: A program that encrypt/decrypt messages which requires arithmetic logic to encrypt the data using a  provided key and decrypt
    the message data depending on the special key that it requires for it to be unlocked. Incorrect unlock_key will result a broken decrypted data.
