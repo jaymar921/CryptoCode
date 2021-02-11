@@ -1,4 +1,4 @@
-# CryptoCode
+# CryptoCode by JayMar921
  Version 1.0.0
    Language:  Java
    Requires Interface: None
