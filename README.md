@@ -11,15 +11,18 @@
    
   largest possible key is 1,000,000,000,000,000 with encryption sequence of 243132002410432331 and unlock key of 2,000,000,000,000,000 or 2,000,000,000,000,001
    least possible key is 2 with encryption sequence of 14 and unlock key of 4 or 5
-
-
+	
+	
    To simplify
 	Getting the  unlock_key will be the result of key*2;
-   
-   	How to use 
+	
+   If you want to use my project:
+	
+	Clone https://github.com/jaymar921/CryptoCode.git
+
+   Instruction on how to use the class
+	
       Create an object of CryptoCode
-                                |
-		               V
       CryptoCode <name> = new CryptoCode(key);
 
       Note: The key will be used to generate the encrypted data
