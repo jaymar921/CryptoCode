@@ -1,8 +1,8 @@
 # CryptoCode by JayMar921
  Version 1.0.0
-   >Language:  Java
-   >Requires Interface: None
-   >Class Dependency:  None
+   >Language:  Java |
+   >Requires Interface: None |
+   >Class Dependency:  None |
 
    Note: This is made by educational purpose only, I am not responsible for any damage for your files
    
@@ -16,7 +16,7 @@
    To simplify
 	Getting the  unlock_key will be the result of key*2;
    
-   How to use 
+   	How to use 
       Create an object of CryptoCode
                                 |
 		               V
@@ -45,7 +45,7 @@
       .encryptShowKey()          <- returns encryption and decryption key
       .decryptResult()               <- returns decrypted_data(str)
       
-   #DEMONSTRATION
+  	 #DEMONSTRATION
       //creation  of  CryptoCode  object
 
       CryptoCode test = new CryptoCode(20);
@@ -70,9 +70,9 @@
 
 
    Version 1.0.2
-   >Language:  Java
-   >Requires Interface: None
-   >Class Dependency:  None
+   >Language:  Java |
+   >Requires Interface: None |
+   >Class Dependency:  None |
 
 	NEW METHODS ADDED:
 
